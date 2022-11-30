@@ -7552,22 +7552,6 @@
       "JongChun"
     ]
   },
-  "Web/JavaScript/About_JavaScript": {
-    "modified": "2020-03-12T19:36:55.143Z",
-    "contributors": [
-      "JinKang",
-      "Parcovia",
-      "cs09g",
-      "imjang57",
-      "wayne-kim",
-      "desty",
-      "stephenjang",
-      "Luzi.kr",
-      "teoli",
-      "Zer0th",
-      "99corps"
-    ]
-  },
   "Web/JavaScript/Closures": {
     "modified": "2020-03-12T19:37:58.819Z",
     "contributors": [
@@ -7953,17 +7937,6 @@
       "Constantine Kim",
       "MoGi",
       "Dyhan81",
-      "Goldmund"
-    ]
-  },
-  "Web/JavaScript/Reference/About": {
-    "modified": "2020-03-12T19:37:02.761Z",
-    "contributors": [
-      "limkukhyun",
-      "teoli",
-      "Dyhan81",
-      "Netaras",
-      "taggon",
       "Goldmund"
     ]
   },
@@ -11199,6 +11172,22 @@
     "modified": "2020-02-05T12:28:02.372Z",
     "contributors": ["alattalatta"]
   },
+  "conflicting/Web/JavaScript": {
+    "modified": "2020-03-12T19:36:55.143Z",
+    "contributors": [
+      "JinKang",
+      "Parcovia",
+      "cs09g",
+      "imjang57",
+      "wayne-kim",
+      "desty",
+      "stephenjang",
+      "Luzi.kr",
+      "teoli",
+      "Zer0th",
+      "99corps"
+    ]
+  },
   "conflicting/Web/JavaScript/Guide": {
     "modified": "2019-01-16T16:10:38.273Z",
     "contributors": ["teoli", "Wafe"]
@@ -11263,6 +11252,17 @@
   "conflicting/Web/JavaScript/JavaScript_technologies_overview_0191f05ec18a4ee4d771b548feb0701d": {
     "modified": "2020-03-12T19:44:13.687Z",
     "contributors": ["limkukhyun", "hoony"]
+  },
+  "conflicting/Web/JavaScript/Reference": {
+    "modified": "2020-03-12T19:37:02.761Z",
+    "contributors": [
+      "limkukhyun",
+      "teoli",
+      "Dyhan81",
+      "Netaras",
+      "taggon",
+      "Goldmund"
+    ]
   },
   "conflicting/Web/JavaScript/Reference/Global_Objects": {
     "modified": "2020-10-15T21:52:46.647Z",
