@@ -2075,7 +2075,7 @@
 /fr/docs/Introduction_à_la_cryptographie_à_clef_publique:Signatures_numériques	/fr/docs/Glossary/Signature/Security
 /fr/docs/JSON	/fr/docs/Glossary/JSON
 /fr/docs/JavaScript	/fr/docs/Web/JavaScript
-/fr/docs/JavaScript/A_propos	/fr/docs/Web/JavaScript/About_JavaScript
+/fr/docs/JavaScript/A_propos	/fr/docs/conflicting/Web/JavaScript
 /fr/docs/JavaScript/A_re-introduction_to_JavaScript	/fr/docs/Web/JavaScript/Language_Overview
 /fr/docs/JavaScript/Autres_outils_JavaScript	https://firefox-source-docs.mozilla.org/devtools-user/index.html
 /fr/docs/JavaScript/Gestion_de_la_mémoire	/fr/docs/Web/JavaScript/Memory_Management
@@ -2148,7 +2148,7 @@
 /fr/docs/JavaScript/Language_Resources	/fr/docs/Web/JavaScript/JavaScript_technologies_overview
 /fr/docs/JavaScript/Les_différents_tests_d_égalité_comment_les_utiliser	/fr/docs/Web/JavaScript/Equality_comparisons_and_sameness
 /fr/docs/JavaScript/Reference	/fr/docs/Web/JavaScript/Reference
-/fr/docs/JavaScript/Reference/A_propos	/fr/docs/Web/JavaScript/Reference/About
+/fr/docs/JavaScript/Reference/A_propos	/fr/docs/conflicting/Web/JavaScript/Reference
 /fr/docs/JavaScript/Reference/A_propos/Conventions_d_écriture	/fr/docs/Web/JavaScript
 /fr/docs/JavaScript/Reference/Annexes	/fr/docs/Web/JavaScript/Reference
 /fr/docs/JavaScript/Reference/Annexes/Annexe_-_Mots_réservés	/fr/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords
@@ -2637,10 +2637,10 @@
 /fr/docs/JavaScript/Reference/Référence_JavaScript/Propriétés_globales/Infinity	/fr/docs/Web/JavaScript/Reference/Global_Objects/Infinity
 /fr/docs/JavaScript/Reference/Référence_JavaScript/Propriétés_globales/NaN	/fr/docs/Web/JavaScript/Reference/Global_Objects/NaN
 /fr/docs/JavaScript/Reference/Référence_JavaScript/Propriétés_globales/undefined	/fr/docs/Web/JavaScript/Reference/Global_Objects/undefined
-/fr/docs/JavaScript/Reference/Référence_JavaScript/À_propos	/fr/docs/Web/JavaScript/About_JavaScript
+/fr/docs/JavaScript/Reference/Référence_JavaScript/À_propos	/fr/docs/conflicting/Web/JavaScript
 /fr/docs/JavaScript/Reference/Référence_JavaScript/À_propos/Conventions_d'écriture	/fr/docs/Web/JavaScript
 /fr/docs/JavaScript/Référence_JavaScript	/fr/docs/Web/JavaScript/Reference
-/fr/docs/JavaScript/Référence_JavaScript/A_propos	/fr/docs/Web/JavaScript/Reference/About
+/fr/docs/JavaScript/Référence_JavaScript/A_propos	/fr/docs/conflicting/Web/JavaScript/Reference
 /fr/docs/JavaScript/Référence_JavaScript/Annexes	/fr/docs/Web/JavaScript/Reference
 /fr/docs/JavaScript/Référence_JavaScript/Annexes/Annexe_-_Mots_réservés	/fr/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords
 /fr/docs/JavaScript/Référence_JavaScript/Annexes/Fonctionnalités_dépréciées	/fr/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features
@@ -2860,7 +2860,7 @@
 /fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Propriétés_globales/Infinity	/fr/docs/Web/JavaScript/Reference/Global_Objects/Infinity
 /fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Propriétés_globales/NaN	/fr/docs/Web/JavaScript/Reference/Global_Objects/NaN
 /fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/Propriétés_globales/undefined	/fr/docs/Web/JavaScript/Reference/Global_Objects/undefined
-/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/À_propos	/fr/docs/Web/JavaScript/About_JavaScript
+/fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/À_propos	/fr/docs/conflicting/Web/JavaScript
 /fr/docs/JavaScript/Référence_JavaScript/Référence_JavaScript/À_propos/Conventions_d'écriture	/fr/docs/Web/JavaScript
 /fr/docs/JavaScript/Same_origin_policy_for_JavaScript	/fr/docs/Web/Security/Same-origin_policy
 /fr/docs/JavaScript/Shells	/fr/docs/Web/JavaScript/JavaScript_technologies_overview
@@ -3354,7 +3354,7 @@
 /fr/docs/Précis_CSS_2:Tout_en_un	/fr/docs/Web/CSS/Reference
 /fr/docs/Référence_DOM_Gecko	/fr/docs/Glossary/DOM
 /fr/docs/Référence_de_JavaScript_1.5_Core	/fr/docs/Web/JavaScript/Reference
-/fr/docs/Référence_de_JavaScript_1.5_Core/A_propos_de_cette_reference	/fr/docs/Web/JavaScript/Reference/About
+/fr/docs/Référence_de_JavaScript_1.5_Core/A_propos_de_cette_reference	/fr/docs/conflicting/Web/JavaScript/Reference
 /fr/docs/Référence_de_JavaScript_1.5_Core/Fonctions_et_portee_des_fonctions	/fr/docs/Web/JavaScript/Reference/Functions
 /fr/docs/Référence_de_JavaScript_1.5_Core/Fonctions_et_portee_des_fonctions/Strict_mode	/fr/docs/Web/JavaScript/Reference/Strict_mode
 /fr/docs/Référence_de_JavaScript_1.5_Core/Fonctions_et_portee_des_fonctions/arguments	/fr/docs/Web/JavaScript/Reference/Functions/arguments
@@ -4778,8 +4778,9 @@
 /fr/docs/Web/HTTP/Méthode/TRACE	/fr/docs/Web/HTTP/Methods/TRACE
 /fr/docs/Web/HTTP/Public_Key_Pinning	/fr/docs/Web/Security/Certificate_Transparency
 /fr/docs/Web/HTTP/Requêtes_conditionnelles	/fr/docs/Web/HTTP/Conditional_requests
-/fr/docs/Web/JavaScript/A_propos	/fr/docs/Web/JavaScript/About_JavaScript
+/fr/docs/Web/JavaScript/A_propos	/fr/docs/conflicting/Web/JavaScript
 /fr/docs/Web/JavaScript/A_re-introduction_to_JavaScript	/fr/docs/Web/JavaScript/Language_Overview
+/fr/docs/Web/JavaScript/About_JavaScript	/fr/docs/conflicting/Web/JavaScript
 /fr/docs/Web/JavaScript/Autres_outils_JavaScript	https://firefox-source-docs.mozilla.org/devtools-user/index.html
 /fr/docs/Web/JavaScript/Caractère_énumérable_des_propriétés_et_rattachement	/fr/docs/Web/JavaScript/Enumerability_and_ownership_of_properties
 /fr/docs/Web/JavaScript/Concurrence_et_boucle_des_événements	/fr/docs/Web/JavaScript/EventLoop
@@ -4831,7 +4832,8 @@
 /fr/docs/Web/JavaScript/Les_différents_tests_d_égalité	/fr/docs/Web/JavaScript/Equality_comparisons_and_sameness
 /fr/docs/Web/JavaScript/Les_différents_tests_d_égalité_comment_les_utiliser	/fr/docs/Web/JavaScript/Equality_comparisons_and_sameness
 /fr/docs/Web/JavaScript/Performance_les_dangers_liés_à_la_modification_de_Prototype	/fr/docs/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf
-/fr/docs/Web/JavaScript/Reference/A_propos	/fr/docs/Web/JavaScript/Reference/About
+/fr/docs/Web/JavaScript/Reference/A_propos	/fr/docs/conflicting/Web/JavaScript/Reference
+/fr/docs/Web/JavaScript/Reference/About	/fr/docs/conflicting/Web/JavaScript/Reference
 /fr/docs/Web/JavaScript/Reference/Classes/Class_fields	/fr/docs/Web/JavaScript/Reference/Classes/Public_class_fields
 /fr/docs/Web/JavaScript/Reference/Classes/Class_static_initialization_blocks	/fr/docs/Web/JavaScript/Reference/Classes/Static_initialization_blocks
 /fr/docs/Web/JavaScript/Reference/Commentaires	/fr/docs/Web/JavaScript/Reference/Lexical_grammar#Commentaires
@@ -4943,6 +4945,9 @@
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Function/prototype	/fr/docs/Web/JavaScript/Reference/Global_Objects/Function
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Function/toSource	/fr/docs/Web/JavaScript/Reference/Global_Objects/Function/toString
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/@@toStringTag	/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl
+/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segments	/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter/segment/Segments
+/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segments/@@iterator	/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter/segment/Segments/@@iterator
+/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segments/containing	/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/Segmenter/segment/Segments/containing
 /fr/docs/Web/JavaScript/Reference/Global_Objects/ListFormat	/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl/ListFormat
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Map/@@toStringTag	/fr/docs/Web/JavaScript/Reference/Global_Objects/Intl
 /fr/docs/Web/JavaScript/Reference/Global_Objects/Number/toSource	/fr/docs/Web/JavaScript/Reference/Global_Objects/Number/toString
@@ -6540,6 +6545,6 @@
 /fr/docs/valeur_reelle	/fr/docs/Web/CSS/actual_value
 /fr/docs/window.closed	/fr/docs/Web/API/Window/closed
 /fr/docs/zineb_chengab_bonjour_bonsoir_merci	/fr/docs/Web
-/fr/docs/À_propos_de_JavaScript	/fr/docs/Web/JavaScript/About_JavaScript
+/fr/docs/À_propos_de_JavaScript	/fr/docs/conflicting/Web/JavaScript
 /fr/docs/À_propos_du_Document_Object_Model	/fr/docs/Web/API/Document_Object_Model
 /fr/docs/Évènements_online_et_offline	/fr/docs/Web/API/Navigator/onLine
